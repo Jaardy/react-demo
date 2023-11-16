@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Fozzie Bear",
+    "password": "Wokka-Wokka",
+    "email": "fozzie@themuppets.com",
+    "salary": 85000
+  },
+  {
+    "username": "Kermit",
+    "password": "theRainbowConnection",
+    "email": "kermit@themuppets.com",
+    "salary": 96000
+  },
+  {
+    "username": "Miss Piggy",
+    "password": "ohKermie",
+    "email": "misspiggy@themuppets.com",
+    "salary": 100000
+  },
+  {
+    "username": "Animal",
+    "password": "Ahhhhhhhhh!",
+    "email": "animal@themuppets.com",
+    "salary": 15000
+  }
+]
